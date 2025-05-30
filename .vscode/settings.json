@@ -19,9 +19,6 @@
         "terminal.ansiMagenta": "#9e2586",
         "terminal.ansiRed": "#FB0120",
         "terminal.ansiWhite": "#E0E0E0",
-        "terminal.ansiYellow": "#07f33a",
-        "activityBar.background": "#521D0A",
-        "titleBar.activeBackground": "#72280E",
-        "titleBar.activeForeground": "#FEFBFA"
+        "terminal.ansiYellow": "#07f33a"
     }
 }
